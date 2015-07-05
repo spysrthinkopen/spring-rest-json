@@ -1,0 +1,11 @@
+# general
+*~
+
+ 
+# Eclipse
+.settings
+target/
+.cache
+.project
+.classpath
+
